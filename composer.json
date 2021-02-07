@@ -1,0 +1,17 @@
+{
+  "name": "yuriy/home-work5",
+  "description": "Home work for course PHP advanced 5",
+  "type": "project",
+  "authors": [
+    {
+      "name": "yuriy",
+      "email": "peresypko.yuriy@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Hillel\\": "src"
+    }
+  }
+}
